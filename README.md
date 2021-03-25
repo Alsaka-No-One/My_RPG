@@ -4,10 +4,14 @@
 </p>
 <h3 align="center">A RPG game project by EPITECH.</h3>
 
-MUL_my_rpg_2018
+# Installation
+1. Clone this repository on your computer
+2. Open a terminal then `cd` into the repository
+3. Enter `make` to compile the project
+4. run `./my_rpg` to launch the game
 
-Group project with:
-Gaetan DEPIN /
-Axel VIROT /
-Tony MARINI /
-Alain NGUYEN
+# Authors
+@Gaetan DEPIN  
+@Axel VIROT  
+@Tony MARINI  
+@Alain NGUYEN
