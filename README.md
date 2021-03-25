@@ -2,7 +2,7 @@
 <p align="center">
   <img align="center" src="./best_gif.gif"/>
 </p>
-<h3 align="center">A RPG game project by EPITECH.</h3>
+<h3 align="center">A RPG game project for EPITECH.</h3>
 
 # Installation
 1. Clone this repository on your computer
